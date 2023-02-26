@@ -1,13 +1,38 @@
 
 # LabeX
+Este projeto foi desenvolvido para praticar o consumo de APIs. A API utilizada foi desenvolvida pela Labenu para fins de estudo. O site tem oito páginas e três delas só podem ser acessadas se o usuário estiver logado. Este projeto é responsivo a todos os tamanhos de tela.
 
-### Informações de login
+## Informações de login
 Email: gabriel.labenu@gmail.com
 Senha: 123456
 
 
-### Link Surge 
+## Link Surge 
 https://defective-faucet.surge.sh/
+
+## Funcionalidades
+* Todos os usuários podem acessar as viagens disponíveis e também se inscrever em qualquer uma delas;
+* Ao fazer login, o usuário pode incluir novas viagens na lista e também removê-las;
+* Além disso, o usuário também pode ver os detalhes das viagens, incluindo a lista de candidatos a cada viagem;
+* Quando há candidatos a uma viagem, o usuário pode ver as informações do candidato e aceitá-lo ou rejeitá-lo;
+* Quando o usuário fecha a janela, ele é automaticamente desconectado.
+
+## Rodando o projeto
+<pre>
+  <code>$ git clone https://github.com/gabriel-suela/labe-x.git</code>
+</pre>
+
+<pre>
+  <code>$ cd labe-x</code>
+</pre>
+
+<pre>
+  <code>$ yarn </code>
+</pre>
+
+<pre>
+  <code>$ yarn run dev </code>
+</pre>
 
 ### Imagens
 
