@@ -33,7 +33,7 @@ Este projeto foi desenvolvido para praticar o consumo de APIs. A API utilizada f
 ## 🔗 Link para visualização do projeto
 <a href="https://defective-faucet.surge.sh/" target="_blank" rel="noopener noreferrer">LabeX</a>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias ##
 
 
 Tecnologias utilizadas para realizar o projeto.
@@ -61,8 +61,6 @@ Tecnologias utilizadas para realizar o projeto.
 yarn
 ```
 ### Inicie a aplicação
-
-Inicie a aplicação
 
 ```bash
 yarn run dev
