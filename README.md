@@ -1,59 +1,72 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60453269/220384874-f136b1f9-a852-4774-a600-7fab9d77e8a2.png" alt="Logo" width="300" height="200" />
+</p>
 
-# LabeX
+<h1 align="center"> LabeX </h1>
+
+
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+<p align="center">
+  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Funcionalidades"> 🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Desenvolvedores"> 🏆 Desenvolvedores </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br/>
+
+<a id="Introdução"></a>
+## 🧩 Introdução 
+
 Este projeto foi desenvolvido para praticar o consumo de APIs. A API utilizada foi desenvolvida pela Labenu para fins de estudo. O site tem oito páginas e três delas só podem ser acessadas se o usuário estiver logado. Este projeto é responsivo a todos os tamanhos de tela.
 
-## Informações de login
-Email: gabriel.labenu@gmail.com
-Senha: 123456
+<br/>
 
 
-## Link Surge 
-https://defective-faucet.surge.sh/
-
-## Funcionalidades
+<a id="Funcionalidades"></a>
+## 🚀 Funcionalidades 
 * Todos os usuários podem acessar as viagens disponíveis e também se inscrever em qualquer uma delas;
 * Ao fazer login, o usuário pode incluir novas viagens na lista e também removê-las;
 * Além disso, o usuário também pode ver os detalhes das viagens, incluindo a lista de candidatos a cada viagem;
 * Quando há candidatos a uma viagem, o usuário pode ver as informações do candidato e aceitá-lo ou rejeitá-lo;
 * Quando o usuário fecha a janela, ele é automaticamente desconectado.
 
-## Rodando o projeto
-<pre>
-  <code>$ git clone https://github.com/gabriel-suela/labe-x.git</code>
-</pre>
+<br/> 
 
-<pre>
-  <code>$ cd labe-x</code>
-</pre>
+## Front-end
 
-<pre>
-  <code>$ yarn </code>
-</pre>
+</summary>
 
-<pre>
-  <code>$ yarn run dev </code>
-</pre>
+### 🤳🏻 Mobile
 
-### Imagens
-
-## Computador
-![image](https://user-images.githubusercontent.com/96388423/187008494-476023a3-a7db-4bb9-8b29-f769e87b6a0b.png)
-![image](https://user-images.githubusercontent.com/96388423/187008523-2ce35af6-7579-474d-a923-e0841b411a4e.png)
-![image](https://user-images.githubusercontent.com/96388423/187008533-16f5cec8-ec53-4b5e-b837-3c074fcb687c.png)
-![image](https://user-images.githubusercontent.com/96388423/187008551-48ffa48d-4da6-4c0a-86be-3b791a77c720.png)
-![image](https://user-images.githubusercontent.com/96388423/187008566-a029a210-ec35-48a0-883f-a4871be8ec43.png)
-![image](https://user-images.githubusercontent.com/96388423/187008586-cdcd5fbf-b793-44f0-be98-c172dfa4efc9.png)
+⭐ Pagina Inicial | ⭐ Login | ⭐ Lista de Viagens | ⭐ Painel Administrativo |
+|---|---|---|---|
+![HomePagePhone](https://user-images.githubusercontent.com/96388423/221720987-e6eef706-6321-4d1f-a95e-d8abb31c7b0a.png) | ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721086-4e3551a1-8414-452a-a77e-5ca63ecd5900.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721422-104b0e2b-b45f-49dc-91a2-99ab8199f545.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721310-4840ede6-8fb2-404a-82cc-325169cc29cf.png)
+  
+  
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-## Mobile
-
-![image](https://user-images.githubusercontent.com/96388423/187008600-26bad4d9-eccd-416c-881d-3df9b8badfc7.png)
-![image](https://user-images.githubusercontent.com/96388423/187008614-fcca27aa-eace-436a-ba59-3778b5d1974b.png)
-![image](https://user-images.githubusercontent.com/96388423/187008622-da12043a-82c0-46dd-8620-6a73ef20200c.png)
-![image](https://user-images.githubusercontent.com/96388423/187008635-a6cf50cc-47a5-4824-96a0-5337fe9e76ec.png)
-![image](https://user-images.githubusercontent.com/96388423/187008642-6bff2597-0fdc-4d0f-a031-e9a20468acd5.png)
-![image](https://user-images.githubusercontent.com/96388423/187008655-8d76467c-a8f2-4816-a1f9-3753925b4000.png)
+### 💻 Desktop 
+  
+ ⭐ Login | ⭐ Registro | ⭐ Lista de Viagens |
+|---|---|---|
+![HomePage](https://user-images.githubusercontent.com/96388423/187008551-48ffa48d-4da6-4c0a-86be-3b791a77c720.png) | ![Detalhes](https://user-images.githubusercontent.com/96388423/187008533-16f5cec8-ec53-4b5e-b837-3c074fcb687c.png) | ![Detalhes](https://user-images.githubusercontent.com/96388423/187008523-2ce35af6-7579-474d-a923-e0841b411a4e.png)
 
 
+<br/>
 
 
+<a id="Desenvolvedores"></a>
+## 🏆 Desenvolvedores
+
+
+<div > 
+
+| [<img src="https://avatars.githubusercontent.com/u/96388423?v=4" width=200><br><sub> Gabriel Suela </sub>](https://www.linkedin.com/in/gabriel-suela/) | | 
+|---|---|
+
+
+</div> 
