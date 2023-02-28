@@ -30,6 +30,8 @@ Este projeto foi desenvolvido para praticar o consumo de APIs. A API utilizada f
 * Quando há candidatos a uma viagem, o usuário pode ver as informações do candidato e aceitá-lo ou rejeitá-lo;
 * Quando o usuário fecha a janela, ele é automaticamente desconectado.
 
+## 🔗 Link para visualização do projeto
+<a href="https://defective-faucet.surge.sh/" target="_blank" rel="noopener noreferrer">LabeX</a>
 
 ## 🚀 Tecnologias
 
