@@ -1,72 +1,71 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/60453269/220384874-f136b1f9-a852-4774-a600-7fab9d77e8a2.png" alt="Logo" width="300" height="200" />
-</p>
-
-<h1 align="center"> LabeX </h1>
-
-
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<h3 align="center">
+  Projeto em react que visa trabalhar o consumo de uma API REST.
+</h3>
 
 <p align="center">
-  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Funcionalidades"> 🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Desenvolvedores"> 🏆 Desenvolvedores </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel-suela/labe-x?color=251d3a">
+  <a href="https://www.linkedin.com/in/gabriel-suela/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Gabriel%20Suela-251d3a">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabriel-suela/labe-x?color=251d3a">
+  <a href="https://github.com/gabriel-suela/softwrap-api/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabriel-suela/labe-x?color=251d3a">
+  </a>
+
+<p align="center">
+  <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-o-projeto">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br/>
-
-<a id="Introdução"></a>
-## 🧩 Introdução 
+## 🎯 Resumo ##
 
 Este projeto foi desenvolvido para praticar o consumo de APIs. A API utilizada foi desenvolvida pela Labenu para fins de estudo. O site tem oito páginas e três delas só podem ser acessadas se o usuário estiver logado. Este projeto é responsivo a todos os tamanhos de tela.
 
-<br/>
+## ✨ Funcionalidades ##
 
-
-<a id="Funcionalidades"></a>
-## 🚀 Funcionalidades 
 * Todos os usuários podem acessar as viagens disponíveis e também se inscrever em qualquer uma delas;
 * Ao fazer login, o usuário pode incluir novas viagens na lista e também removê-las;
 * Além disso, o usuário também pode ver os detalhes das viagens, incluindo a lista de candidatos a cada viagem;
 * Quando há candidatos a uma viagem, o usuário pode ver as informações do candidato e aceitá-lo ou rejeitá-lo;
 * Quando o usuário fecha a janela, ele é automaticamente desconectado.
 
-<br/> 
 
-## Front-end
-
-</summary>
-
-### 🤳🏻 Mobile
-
-⭐ Pagina Inicial | ⭐ Login | ⭐ Lista de Viagens | ⭐ Painel Administrativo |
-|---|---|---|---|
-![HomePagePhone](https://user-images.githubusercontent.com/96388423/221720987-e6eef706-6321-4d1f-a95e-d8abb31c7b0a.png) | ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721086-4e3551a1-8414-452a-a77e-5ca63ecd5900.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721422-104b0e2b-b45f-49dc-91a2-99ab8199f545.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/96388423/221721310-4840ede6-8fb2-404a-82cc-325169cc29cf.png)
-  
-  
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## 🚀 Tecnologias
 
 
-### 💻 Desktop 
-  
- ⭐ Login | ⭐ Registro | ⭐ Lista de Viagens |
-|---|---|---|
-![HomePage](https://user-images.githubusercontent.com/96388423/187008551-48ffa48d-4da6-4c0a-86be-3b791a77c720.png) | ![Detalhes](https://user-images.githubusercontent.com/96388423/187008533-16f5cec8-ec53-4b5e-b837-3c074fcb687c.png) | ![Detalhes](https://user-images.githubusercontent.com/96388423/187008523-2ce35af6-7579-474d-a923-e0841b411a4e.png)
+Tecnologias utilizadas para realizar o projeto.
+
+- [React](https://pt-br.reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
 
 
-<br/>
+## 💻 Rodando o projeto
 
+### Requisitos
 
-<a id="Desenvolvedores"></a>
-## 🏆 Desenvolvedores
+**Clone o projeto e acesse a pasta**
 
+```bash
+ git clone git@github.com:gabriel-suela/labe-x.git && cd labe-x
+```
 
-<div > 
+**Siga os passos abaixo**
 
-| [<img src="https://avatars.githubusercontent.com/u/96388423?v=4" width=200><br><sub> Gabriel Suela </sub>](https://www.linkedin.com/in/gabriel-suela/) | | 
-|---|---|
+### Instale as dependências
 
+```bash
+yarn
+```
+### Inicie a aplicação
 
-</div> 
+Inicie a aplicação
+
+```bash
+yarn run dev
+```
+
+---
+
+Made &nbsp;by Gabriel Suela 👋 &nbsp;[Veja meu linkedin](https://www.linkedin.com/in/gabriel-suela/)
